@@ -1,0 +1,68 @@
+{
+ "build": "12.1.5.70575",
+ "files": {
+  "ach": [
+   "ach.tsv"
+  ],
+  "collections": [
+   "collections.tsv"
+  ],
+  "currency": [
+   "currency.tsv"
+  ],
+  "dialog": [
+   "dialog.tsv"
+  ],
+  "faction": [
+   "faction.tsv"
+  ],
+  "item": [
+   "item.tsv"
+  ],
+  "journal": [
+   "journal.tsv"
+  ],
+  "mount": [
+   "mount.tsv"
+  ],
+  "names": [
+   "names.tsv"
+  ],
+  "pet": [
+   "pet.tsv"
+  ],
+  "quest": [
+   "quest.tsv"
+  ],
+  "questui": [
+   "questui.tsv"
+  ],
+  "sdesc": [
+   "sdesc.tsv"
+  ],
+  "spell": [
+   "spell.tsv"
+  ],
+  "ui": [
+   "ui.tsv"
+  ]
+ },
+ "rows": {
+  "ach": 28181,
+  "collections": 23892,
+  "currency": 1896,
+  "dialog": 95076,
+  "faction": 1152,
+  "item": 209143,
+  "journal": 31113,
+  "mount": 3216,
+  "names": 43789,
+  "pet": 4247,
+  "quest": 162755,
+  "questui": 30066,
+  "sdesc": 152406,
+  "spell": 365941,
+  "ui": 69321
+ },
+ "chars": 63325861
+}
