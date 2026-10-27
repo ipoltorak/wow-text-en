@@ -51,7 +51,7 @@
   "ach": 28181,
   "collections": 23892,
   "currency": 1896,
-  "dialog": 95076,
+  "dialog": 96218,
   "faction": 1152,
   "item": 209143,
   "journal": 31113,
@@ -64,5 +64,5 @@
   "spell": 365941,
   "ui": 69321
  },
- "chars": 63325861
+ "chars": 63363815
 }

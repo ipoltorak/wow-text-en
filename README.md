@@ -4,7 +4,7 @@ Plain-text dump of the English strings the game shows: quests, NPC dialogue and 
 achievements, Adventure Guide, collections and UI. Collected while building **Uwow**, a Ukrainian localization addon
 (https://uwow.wearebob.dev). Use it to translate WoW into any language without scraping the game yourself.
 
-**Build:** 12.1.5.70575 (Midnight) · **Rows:** 1,222,194 · **Characters:** 63,325,861
+**Build:** 12.1.5.70575 (Midnight) · **Rows:** 1,223,336 · **Characters:** 63,363,815
 
 ## Files
 
@@ -22,7 +22,7 @@ One TSV per text type (UTF-8, header row, tab-separated). Columns:
 | `data/ach.tsv` | achievements: title, description, reward | 28,181 |
 | `data/collections.tsv` | collections, toys, sets | 23,892 |
 | `data/currency.tsv` | currencies | 1,896 |
-| `data/dialog.tsv` | NPC dialogue, gossip, subtitles, broadcasts | 95,076 |
+| `data/dialog.tsv` | NPC dialogue, gossip, subtitles, broadcasts | 96,218 |
 | `data/faction.tsv` | factions | 1,152 |
 | `data/item.tsv` | item names | 209,143 |
 | `data/journal.tsv` | Adventure Guide: bosses, abilities, lore | 31,113 |
