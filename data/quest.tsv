@@ -162972,3 +162972,15 @@ id	field	text	source
 97212	objectives	{"ox":"This quest has objectives in $$.","sx":"This quest starts in $$.","ex":"This quest ends in $$.","sex":"This quest starts and ends in $$.","osx":"This quest has objectives and starts in $$.","oex":"This quest has objectives and ends in $$.","osx_ey":"This quest has objectives and starts in $$ and ends in $$.","oex_sy":"This quest has objectives and ends in $$ and starts in $$.","sx_ey":"This quest starts in $$ and ends in $$.","ox_sy":"This quest starts in $$ and has objectives in $$.","ox_ey":"This quest has objectives in $$ and ends in $$.","ox_sey":"This quest starts and ends in $$ and has objectives in $$.","ox_sy_ez":"This quest starts in $$, has objectives in $$ and ends in $$."}	wowhead
 97213	title	Candy Bucket	wowhead
 97213	objectives	{"ox":"This quest has objectives in $$.","sx":"This quest starts in $$.","ex":"This quest ends in $$.","sex":"This quest starts and ends in $$.","osx":"This quest has objectives and starts in $$.","oex":"This quest has objectives and ends in $$.","osx_ey":"This quest has objectives and starts in $$ and ends in $$.","oex_sy":"This quest has objectives and ends in $$ and starts in $$.","sx_ey":"This quest starts in $$ and ends in $$.","ox_sy":"This quest starts in $$ and has objectives in $$.","ox_ey":"This quest has objectives in $$ and ends in $$.","ox_sey":"This quest starts and ends in $$ and has objectives in $$.","ox_sy_ez":"This quest starts in $$, has objectives in $$ and ends in $$."}	wowhead
+98213	title	Midnight (90) E	wowhead
+98295	title	Week 2 of 3: Crowd Control	wowhead
+98295	completion	Excellent work. Crowd control is a key component of victory.	wowhead
+98473	title	Autumnal Addresses	wowhead
+98473	objectives	Ride through the rings.\n Complete the Race (1)\nBronze Timepiece (1)\n\n\n\nWH.ge('icon-list-icon1').appendChild(g_items.createIcon(188134, 0, 1, null, null));\n\n\n\n\nProvided item: \n\nBronze Timepiece (1)\n\n\n\nWH.ge('icon-list-icon2').appendChild(g_items.createIcon(191140, 0, 0, null, null));	wowhead
+98473	description	Race through the checkpoint rings marking the course. \n See if you've already completed this by typing:\n\n /run print(C_QuestLog.IsQuestFlaggedCompleted(98473))	wowhead
+98474	title	Runetotem Run	wowhead
+98474	objectives	Ride through the rings.\n Complete the Race (1)\nBronze Timepiece (1)\n\n\n\nWH.ge('icon-list-icon1').appendChild(g_items.createIcon(188134, 0, 1, null, null));\n\n\n\n\nProvided item: \n\nBronze Timepiece (1)\n\n\n\nWH.ge('icon-list-icon2').appendChild(g_items.createIcon(191140, 0, 0, null, null));	wowhead
+98474	description	Race through the checkpoint rings marking the course. \n See if you've already completed this by typing:\n\n /run print(C_QuestLog.IsQuestFlaggedCompleted(98474))	wowhead
+98532	title	Midnight (30-79) E	wowhead
+98535	title	Midnight (80) E	wowhead
+98538	title	Midnight (81-89) E	wowhead

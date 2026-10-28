@@ -4,7 +4,7 @@ Plain-text dump of the English strings the game shows: quests, NPC dialogue and 
 achievements, Adventure Guide, collections and UI. Collected while building **Uwow**, a Ukrainian localization addon
 (https://uwow.wearebob.dev). Use it to translate WoW into any language without scraping the game yourself.
 
-**Build:** 12.1.5.70575 (Midnight) · **Rows:** 1,223,554 · **Characters:** 63,420,832
+**Build:** 12.1.5.70575 (Midnight) · **Rows:** 1,224,264 · **Characters:** 63,462,445
 
 ## Files
 
@@ -22,14 +22,14 @@ One TSV per text type (UTF-8, header row, tab-separated). Columns:
 | `data/ach.tsv` | achievements: title, description, reward | 28,181 |
 | `data/collections.tsv` | collections, toys, sets | 23,892 |
 | `data/currency.tsv` | currencies | 1,896 |
-| `data/dialog.tsv` | NPC dialogue, gossip, subtitles, broadcasts | 96,218 |
+| `data/dialog.tsv` | NPC dialogue, gossip, subtitles, broadcasts | 96,916 |
 | `data/faction.tsv` | factions | 1,152 |
 | `data/item.tsv` | item names | 209,143 |
 | `data/journal.tsv` | Adventure Guide: bosses, abilities, lore | 31,113 |
 | `data/mount.tsv` | mounts | 3,216 |
 | `data/names.tsv` | NPC and object names | 43,789 |
 | `data/pet.tsv` | battle pets | 4,247 |
-| `data/quest.tsv` | quests: title, description, objectives, progress, completion | 162,973 |
+| `data/quest.tsv` | quests: title, description, objectives, progress, completion | 162,985 |
 | `data/questui.tsv` | quest-related UI (campaigns, story lines) | 30,066 |
 | `data/sdesc.tsv` | spell and aura descriptions (templates with $-formulas) | 152,406 |
 | `data/spell.tsv` | spell names | 365,941 |
